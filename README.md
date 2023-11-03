@@ -3,3 +3,5 @@ PatchAugNet: Patch feature augmentation-based heterogeneous point cloud place re
 
 
 Coming soon！
+
+demo in youtube: [https://youtu.be/8gcJCqVuKi0]
