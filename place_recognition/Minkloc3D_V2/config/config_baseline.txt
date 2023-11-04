@@ -1,0 +1,21 @@
+[DEFAULT]
+dataset_folder = /home/ericxhzou/Code/benchmark_datasets
+
+[TRAIN]
+num_workers = 8
+batch_size = 2048
+batch_split_size = 64
+val_batch_size = 256
+
+lr = 1e-3
+epochs = 400
+scheduler_milestones = 250, 350
+aug_mode = 0
+set_aug_mode = 0
+weight_decay = 1e-4
+loss = TruncatedSmoothAP
+tau1 = 0.01
+positives_per_query = 4
+
+train_file = training_queries_hankou.pickle
+val_file = test_queries_hankou.pickle
