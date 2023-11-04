@@ -1,6 +1,5 @@
 ## PatchAugNet
-
-by Xianghong Zou
+* For details, please refer to [Project Main Page](https://whu-usi3dv.github.io/PatchAugNet/)
 
 ### Benchmark Datasets
 * Oxford dataset (for baseline config training/testing: PointNetVLAD, PPT-Net, Minkloc3DV2)
