@@ -62,6 +62,9 @@ Note: model types include [pointnet_vlad / pptnet / pptnet_l2_norm / minkloc3d_v
 
 * Model pretrained on Self-Collected Dataset: https://drive.google.com/drive/folders/1w5Yekh-Yq2SjQmrAsVRWAWtB7xHletmK?usp=drive_link
 
+#### TODO
+* Optimize the code.
+
 #### Citation
 If you find the code or trained models useful, please consider citing:
 ```
