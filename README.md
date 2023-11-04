@@ -58,7 +58,7 @@ Note: model types include [pointnet_vlad / pptnet / pptnet_l2_norm / minkloc3d_v
       datasets include [oxford / university / residential / business / hankou / campus]
 ```
 
-* Train Minkloc3D V2, see [Minkloc3DV2]()
+* Train Minkloc3D V2, see [Minkloc3DV2](https://github.com/jac99/MinkLoc3Dv2)
 
 * Model pretrained on Self-Collected Dataset: https://drive.google.com/drive/folders/1w5Yekh-Yq2SjQmrAsVRWAWtB7xHletmK?usp=drive_link
 
@@ -74,4 +74,4 @@ If you find the code or trained models useful, please consider citing:
 ```
 
 #### Acknowledgement
-Our code refers to [PointNetVLAD](https://github.com/mikacuy/pointnetvlad), [PPT-Net](), [Minkloc3DV2]().
+Our code refers to [PointNetVLAD](https://github.com/mikacuy/pointnetvlad), [PPT-Net](https://github.com/fpthink/PPT-Net), [Minkloc3DV2](https://github.com/jac99/MinkLoc3Dv2).
