@@ -7,7 +7,7 @@
   * university sector (U.S.)
   * residential area (R.A.)
   * business district (B.D.)
-* Self-Collected Datasets
+* Self-Collected Datasets (we will publish it in the future, welcome to follow our work！)
   * wuhan hankou (for training/testing: PointNetVLAD, PPT-Net, Minkloc3DV2, PatchAugNet)
   * whu campus (for testing: PointNetVLAD, PPT-Net, Minkloc3DV2, PatchAugNet)
 
