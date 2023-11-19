@@ -70,7 +70,7 @@ If you find the code or trained models useful, please consider citing:
 @inproceedings{zou2023patchaugnet,
   title={PatchAugNet: Patch feature augmentation-based heterogeneous point cloud place recognition in large-scale street scenes},
   author={Xianghong Zou and Jianping Li and Yuan Wang and Fuxun Liang and Weitong Wu and Haiping Wang and Bisheng Yang and Zhen Dong},
-  journal={xxx},
+  journal={ISPRS J},
   year={2023}
 }
 ```
