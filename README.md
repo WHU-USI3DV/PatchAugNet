@@ -32,7 +32,7 @@ MinkowskiEngine 0.5.4
 # For Oxford RobotCar / 3-Inhouse Datasets
 python datasets/place_recognition_dataset.py
 
-# For Self-Collected Dataset
+# For Self-Collected Dataset (we will publish it in the future, welcome to follow our work！)
 python datasets/scene_dataset.py
 ```
 
