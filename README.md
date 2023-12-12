@@ -13,11 +13,9 @@
 
 ### Project Code
 #### Pre-requisites
+Docker image: 
 ```
-Python 3.9
-Pytorch 1.10.0
-CUDA 11.3
-MinkowskiEngine 0.5.4
+docker pull zouxh22135/pc_loc:v1
 ```
 
 #### Dataset set-up
