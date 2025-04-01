@@ -1,2 +1,2 @@
-# Freereg_page
+# PatchAugNet_page
 ### Project page of [PatchAugNet](https://github.com/WHU-USI3DV/PatchAugNet)
